@@ -1,0 +1,6 @@
+{
+  "name":"wp2mvc",
+  "dependencies":{
+    "bootstrap":"latest"    
+  }
+}
